@@ -1,0 +1,65 @@
+{
+  "new_user": false,
+  "chat_folder": "smart chat",
+  "smart_notes_embed_model": "TaylorAI/bge-micro-v2",
+  "smart_blocks_embed_model": "None",
+  "smart_connections_folder": ".smart-connections",
+  "smart_connections_folder_last": ".smart-connections",
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "local_embedding_max_tokens": 2048,
+  "embedding_file_per_note": false,
+  "chat_model_platform_key": "open_router",
+  "open_router": {
+    "api_key": "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",
+    "model_name": "meta-llama/llama-3-8b-instruct:free",
+    "description": "Meta: Llama 3 8B Instruct (free)",
+    "type": "API",
+    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+    "streaming": true,
+    "fetch_models": true,
+    "default_model": "mistralai/mistral-7b-instruct:free",
+    "signup_url": "https://accounts.openrouter.ai/sign-up?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fkeys",
+    "key": "meta-llama/llama-3-8b-instruct:free",
+    "max_input_tokens": 8192,
+    "actions": false,
+    "multimodal": false,
+    "raw": {
+      "id": "meta-llama/llama-3-8b-instruct:free",
+      "name": "Meta: Llama 3 8B Instruct (free)",
+      "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 8B instruct-tuned version was optimized for high quality dialogue usecases.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, [click here](https://ai.meta.com/blog/meta-llama-3/). Usage of this model is subject to [Meta's Acceptable Use Policy](https://llama.meta.com/llama3/use-policy/).\n\nNote: this is a free, rate-limited version of [this model](/models/meta-llama/llama-3-8b-instruct). Outputs may be cached. Read about rate limits [here](/docs#limits).",
+      "pricing": {
+        "prompt": "0",
+        "completion": "0",
+        "image": "0",
+        "request": "0"
+      },
+      "context_length": 8192,
+      "architecture": {
+        "modality": "text",
+        "tokenizer": "Llama3",
+        "instruct_type": "llama3"
+      },
+      "top_provider": {
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null
+    }
+  },
+  "embed_input_min_chars": 50,
+  "multi_heading_blocks": true,
+  "enable_mobile": false,
+  "api_key": "",
+  "excluded_headings": "",
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "show_full_path": false,
+  "expanded_view": true,
+  "language": "en",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "version": "2.1.66"
+}
