@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Managerial theories of the firm",
+      "path": "P8 - Engineering in Business/Managerial theories of the firm.md"
+    },
+    {
+      "basename": "Single neuron",
+      "path": "P8 - Information/Single neuron.md"
+    },
+    {
+      "basename": "Feature extraction (blob detection)",
+      "path": "P8 - Information/Feature extraction (blob detection).md"
+    },
+    {
+      "basename": "Edge detection",
+      "path": "P8 - Information/Edge detection.md"
+    },
+    {
+      "basename": "Corner detection",
+      "path": "P8 - Information/Corner detection.md"
+    },
+    {
       "basename": "MEMORISE - Thermofluids",
       "path": "MEMORISE - Thermofluids.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "Series expansions",
       "path": "P7 - Maths/Series expansions.md"
-    },
-    {
-      "basename": "Matrix multiplication",
-      "path": "P7 - Maths/Matrix multiplication.md"
-    },
-    {
-      "basename": "Heat transfer by radiation",
-      "path": "P4 - Thermofluids/Heat transfer/Heat transfer by radiation.md"
-    },
-    {
-      "basename": "div, grad and curl",
-      "path": "P7 - Maths/div, grad and curl.md"
-    },
-    {
-      "basename": "Missing lectures",
-      "path": "_private/Archive/Missing lectures.md"
     }
   ],
   "omittedPaths": [],

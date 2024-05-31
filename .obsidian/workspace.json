@@ -8,130 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2a2d288f62bd8c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "P6 - Information/_handouts/Comms 4 (Baseband modulation).pdf"
-              }
-            }
-          },
-          {
-            "id": "f643c1aa28edd4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P6 - Information/Communications/Digital passband modulation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad3ddb547878eda0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "P8 - Bioengineering/_assets/collagen-fibrils.png"
-              }
-            }
-          },
-          {
-            "id": "d5e3795520d70880",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "P8 - Bioengineering/_assets/cornea.png"
-              }
-            }
-          },
-          {
             "id": "e19386d79fba9260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMORISE - Thermofluids.md",
+                "file": "P8 - Engineering in Business/Managerial theories of the firm.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee87f75a8bbe4da2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "P6 - Information/_handouts/Comms 7 (Multiple access).pdf"
-              }
-            }
-          },
-          {
-            "id": "9c6a5a6120cecfea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "P6 - Information/Databook - information.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "0238516db4738b8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e46bdcd3c6ab9744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P6 - Information/Communications/Digital baseband modulation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5661b00009472dcc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "P6 - Information/_handouts/Lecture 6 (Linear Control).pdf"
-              }
-            }
-          },
-          {
-            "id": "0309d6999fb958b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "P6 - Information/_handouts/Comms 6 (Channel coding).pdf"
-              }
-            }
-          },
-          {
-            "id": "26a552b6745f6d22",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "P6 - Information/_handouts/Comms 5 (Passband modulation).pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMORISE - Thermofluids.md",
+                "file": "P8 - Engineering in Business/Managerial theories of the firm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMORISE - Thermofluids.md",
+                "file": "P8 - Engineering in Business/Managerial theories of the firm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMORISE - Thermofluids.md"
+                "file": "P8 - Engineering in Business/Managerial theories of the firm.md"
               }
             }
           },
@@ -302,6 +190,11 @@
   },
   "active": "e19386d79fba9260",
   "lastOpenFiles": [
+    "P8 - Information/Single neuron.md",
+    "P8 - Information/Feature extraction (blob detection).md",
+    "P8 - Information/Edge detection.md",
+    "P8 - Information/Corner detection.md",
+    "MEMORISE - Thermofluids.md",
     "_private/Todo.md",
     "P8 - Electrical/_assets/valence-band-holes.png",
     "P8 - Engineering in Business/Flashcards.md",
@@ -337,16 +230,11 @@
     "P6 - Information/_handouts/Comms 3 (Digitisation).pdf",
     "P6 - Information/_handouts/Comms 2 (AM).pdf",
     "P6 - Information/Communications/Signal modulation.md",
-    "MEMORISE - Thermofluids.md",
     "P6 - Information/Signal processing/Digitisation of analogue signals.md",
     "P6 - Information/Signal processing/Fourier transform.md",
     "P6 - Information/Signal processing/Sampling theory.md",
     "_private/Labs/Lab D1.md",
     "_private/Labs/E4.md",
-    "P7 - Maths/Series expansions.md",
-    "P7 - Maths/Matrix multiplication.md",
-    "P4 - Thermofluids/Heat transfer/Heat transfer by radiation.md",
-    "P7 - Maths/div, grad and curl.md",
-    "_private/Archive/Missing lectures.md"
+    "P7 - Maths/Series expansions.md"
   ]
 }
