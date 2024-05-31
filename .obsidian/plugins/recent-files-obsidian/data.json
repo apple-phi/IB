@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "MEMORISE - Information",
+      "path": "MEMORISE - Information.md"
+    },
+    {
+      "basename": "Lagrangian mechanics",
+      "path": "P1 - Mechanics/Lagrangian mechanics.md"
+    },
+    {
+      "basename": "Kinematics of plane mechanisms",
+      "path": "P1 - Mechanics/Kinematics of plane mechanisms.md"
+    },
+    {
+      "basename": "Kinematics in Two Dimensions",
+      "path": "P1 - Mechanics/Kinematics in Two Dimensions.md"
+    },
+    {
+      "basename": "3D kinematics",
+      "path": "P1 - Mechanics/3D kinematics.md"
+    },
+    {
+      "basename": "P1 EP4 solutions",
+      "path": "P1 - Mechanics/_eps/P1 EP4 solutions.md"
+    },
+    {
+      "basename": "P1 EP3 solutions",
+      "path": "P1 - Mechanics/_eps/P1 EP3 solutions.md"
+    },
+    {
+      "basename": "P1 EP2 solutions",
+      "path": "P1 - Mechanics/_eps/P1 EP2 solutions.md"
+    },
+    {
+      "basename": "P1 EP1 solutions",
+      "path": "P1 - Mechanics/_eps/P1 EP1 solutions.md"
+    },
+    {
+      "basename": "P1 EP0 solutions",
+      "path": "P1 - Mechanics/_eps/P1 EP0 solutions.md"
+    },
+    {
+      "basename": "Drawing 2024-01-31 13.24.00.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-31 13.24.00.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-01-31 15.26.08.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-31 15.26.08.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-01-24 16.41.53.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-24 16.41.53.excalidraw.md"
+    },
+    {
+      "basename": "Strategic marketing management",
+      "path": "P8 - Engineering in Business/Strategic marketing management.md"
+    },
+    {
       "basename": "Managerial theories of the firm",
       "path": "P8 - Engineering in Business/Managerial theories of the firm.md"
     },
@@ -97,10 +153,6 @@
       "path": "P8 - Bioengineering/_assets/cornea.png"
     },
     {
-      "basename": "MEMORISE - Information",
-      "path": "MEMORISE - Information.md"
-    },
-    {
       "basename": "Databook - information",
       "path": "P6 - Information/Databook - information.pdf"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Comms 4 (Baseband modulation)",
       "path": "P6 - Information/_handouts/Comms 4 (Baseband modulation).pdf"
-    },
-    {
-      "basename": "Comms 3 (Digitisation)",
-      "path": "P6 - Information/_handouts/Comms 3 (Digitisation).pdf"
-    },
-    {
-      "basename": "Comms 2 (AM)",
-      "path": "P6 - Information/_handouts/Comms 2 (AM).pdf"
-    },
-    {
-      "basename": "Signal modulation",
-      "path": "P6 - Information/Communications/Signal modulation.md"
-    },
-    {
-      "basename": "Databook - maths",
-      "path": "P7 - Maths/Databook - maths.pdf"
-    },
-    {
-      "basename": "Heat transfer 1 (Conduction)",
-      "path": "P4 - Thermofluids/_handouts/Heat transfer 1 (Conduction).pdf"
-    },
-    {
-      "basename": "Digitisation of analogue signals",
-      "path": "P6 - Information/Signal processing/Digitisation of analogue signals.md"
-    },
-    {
-      "basename": "Fourier transform",
-      "path": "P6 - Information/Signal processing/Fourier transform.md"
-    },
-    {
-      "basename": "Sampling theory",
-      "path": "P6 - Information/Signal processing/Sampling theory.md"
-    },
-    {
-      "basename": "Lab D1",
-      "path": "_private/Labs/Lab D1.md"
-    },
-    {
-      "basename": "E4",
-      "path": "_private/Labs/E4.md"
-    },
-    {
-      "basename": "double-pendulum-lab-beta",
-      "path": "_private/Labs/double-pendulum-lab-beta.png"
-    },
-    {
-      "basename": "double-pendulum-lab-alpha",
-      "path": "_private/Labs/double-pendulum-lab-alpha.png"
-    },
-    {
-      "basename": "Series expansions",
-      "path": "P7 - Maths/Series expansions.md"
     }
   ],
   "omittedPaths": [],

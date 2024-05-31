@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P8 - Engineering in Business/Managerial theories of the firm.md",
+                "file": "MEMORISE - Information.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P8 - Engineering in Business/Managerial theories of the firm.md",
+                "file": "MEMORISE - Information.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P8 - Engineering in Business/Managerial theories of the firm.md",
+                "file": "MEMORISE - Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P8 - Engineering in Business/Managerial theories of the firm.md"
+                "file": "MEMORISE - Information.md"
               }
             }
           },
@@ -185,11 +185,26 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e19386d79fba9260",
   "lastOpenFiles": [
+    "P1 - Mechanics/Lagrangian mechanics.md",
+    "P1 - Mechanics/Kinematics of plane mechanisms.md",
+    "P1 - Mechanics/Kinematics in Two Dimensions.md",
+    "P1 - Mechanics/3D kinematics.md",
+    "P1 - Mechanics/_eps/P1 EP4 solutions.md",
+    "P1 - Mechanics/_eps/P1 EP3 solutions.md",
+    "P1 - Mechanics/_eps/P1 EP2 solutions.md",
+    "P1 - Mechanics/_eps/P1 EP1 solutions.md",
+    "P1 - Mechanics/_eps/P1 EP0 solutions.md",
+    "Excalidraw/Drawing 2024-01-31 13.24.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-31 15.26.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 16.41.53.excalidraw.md",
+    "P8 - Engineering in Business/Strategic marketing management.md",
+    "P8 - Engineering in Business/Managerial theories of the firm.md",
     "P8 - Information/Single neuron.md",
     "P8 - Information/Feature extraction (blob detection).md",
     "P8 - Information/Edge detection.md",
@@ -205,7 +220,6 @@
     "P8 - Bioengineering/The eye as a shell.md",
     "P8 - Bioengineering/Eyes across species.md",
     "P8 - Bioengineering/Imaging the eye.md",
-    "P8 - Bioengineering/Biological coding.md",
     "P8 - Bioengineering/_assets/eye-anatomy.png",
     "P8 - Bioengineering/_assets/collagen-fibrils.png",
     "P8 - Bioengineering/_assets/tissues.png",
@@ -213,28 +227,15 @@
     "P8 - Bioengineering/_assets/lens-capsule.png",
     "_assets/Pasted image 20240503204956.png",
     "P8 - Bioengineering/_assets/histogram-equalisation.png",
-    "MEMORISE - Information.md",
     "_private",
     "P6 - Information/Databook - information.pdf",
-    "P6 - Information/Communications/Digital passband modulation.md",
     "P6 - Information/_handouts/Comms 7 (Multiple access).pdf",
     "P6 - Information/_handouts/Lecture 6 (Linear Control).pdf",
     "P6 - Information/_handouts/Comms 6 (Channel coding).pdf",
-    "P6 - Information/Communications/Channel coding.md",
-    "P6 - Information/Communications/Bandwidth.md",
-    "P6 - Information/Communications/Communication channels.md",
     "P6 - Information/_handouts/Comms 1 (Signals and channels).pdf",
     "P6 - Information/_handouts/Comms 5 (Passband modulation).pdf",
-    "P6 - Information/Communications/Digital baseband modulation.md",
     "P6 - Information/_handouts/Comms 4 (Baseband modulation).pdf",
     "P6 - Information/_handouts/Comms 3 (Digitisation).pdf",
-    "P6 - Information/_handouts/Comms 2 (AM).pdf",
-    "P6 - Information/Communications/Signal modulation.md",
-    "P6 - Information/Signal processing/Digitisation of analogue signals.md",
-    "P6 - Information/Signal processing/Fourier transform.md",
-    "P6 - Information/Signal processing/Sampling theory.md",
-    "_private/Labs/Lab D1.md",
-    "_private/Labs/E4.md",
-    "P7 - Maths/Series expansions.md"
+    "P6 - Information/_handouts/Comms 2 (AM).pdf"
   ]
 }
