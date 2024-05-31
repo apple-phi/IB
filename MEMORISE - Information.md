@@ -20,17 +20,17 @@ If the Nyquist contour of $L(s)$ leaves the point $-1+j0$ entirely on the left, 
 
 ## Fourier transforms
 ### Standard transforms
-The Fourier transform of a standard unit-height rectangular pulse $\operatorname{rect}(t)$ from $t\in[-1,1]$ centred at the origin is
+The Fourier transform of a standard unit-height rectangular pulse $\mathop{{\text{rect}}}(t)$ from $t\in[-1,1]$ centred at the origin is
 
 $$
-\operatorname{rect(t)}\leftrightarrow 2
-\operatorname{sinc}(\omega)
+\mathop{\text{rect}(t)}\leftrightarrow 2
+\mathop{\text{sinc}}(\omega)
 $$
 
-The Fourier transform of a standard $\operatorname{sinc}$ pulse is then
+The Fourier transform of a standard $\mathop{\text{sinc}}$ pulse is then
 
 $$
-\operatorname{sinc}(t)\leftrightarrow \pi \operatorname{rect}(\omega)
+\mathop{\text{sinc}}(t)\leftrightarrow \pi \mathop{\text{rect}}(\omega)
 $$
 
 by duality.
@@ -64,7 +64,7 @@ $$
 > Others in Databook
 
 ## Reconstruction filters
-- Windowed $\operatorname{sinc}$—approximates ideal brick-wall filter in the frequency domain
+- Windowed $\mathop{\text{sinc}}$—approximates ideal brick-wall filter in the frequency domain
 	- But has ringing / edge effects
 - Triangular filter—linear interpolation
 
