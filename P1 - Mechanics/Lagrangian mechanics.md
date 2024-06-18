@@ -332,7 +332,7 @@ v_{n+1}&=v_{n}+a_{n+1}\delta t
 $$
 This is much more stable than Forwards Euler but is much more difficult to implement.
 
-## Semi-implicit Euler (non-examinable)
+### Semi-implicit Euler (non-examinable)
 We can balance the forwards and backwards Euler integrators to obtain a symplectic integrator. 
 - Update the velocities using forwards Euler
 - Updates the positions using backwards Euler

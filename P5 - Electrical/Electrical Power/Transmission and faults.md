@@ -42,7 +42,7 @@ The isolator in series with the circuit-breaker opens when the current has been 
 - **Back-up**—separate system in case primary protection fails.
 
 ## Fault analysis
-We need to determine fault current levels to specifiy breaker $\mathrm{VA}$ ratings
+We need to determine fault current levels to specify breaker $\mathrm{VA}$ ratings
 $$
 \text{VA rating}=\sqrt{ 3 }\left( VI \right)_\text{nominal} 
 $$

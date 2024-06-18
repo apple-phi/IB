@@ -29,7 +29,7 @@ $$
 
 > Supo question: why is $e(z)$ not normally distributed due to CLT?
 
-## Signal to noise ratio
+## Signal-to-noise ratio
 The signal-to-noise ratio is defined as the ratio of signal and noise powers. For a sinusoid signal with signal power $\frac{V^{2}}{2},$ applying an $n$-bit uniform quantizer with $2^{n}$ levels and step size $h= \frac{2V}{2^{n}}$ gives
 $$
 \mathrm{SNR}= \frac{\frac{V^{2}}{2}}{\frac{h^{2}}{12}}= 3\times 2^{2n-1}

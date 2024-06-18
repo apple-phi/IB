@@ -44,7 +44,7 @@ I
 \overline{ I}
 \end{bmatrix}_{ B}e^{ j(\omega t+\beta x) }
 $$
-given in terms of the complex phase and amplitude of the forwards and backwards waves ($\overline{ V}$ and $\overline{ I}$.
+given in terms of the complex phase and amplitude of the forwards and backwards waves ($\overline{ V}$ and $\overline{ I}$).
 
 ## Wave speed
 Consider a coaxial cable with and inner conductor inner radius $a$ and outer conductor radius $b.$ The intermediate dielectric has absolute permittivity $\varepsilon_{d}$ and absolute permeability $\mu_{d}.$
@@ -56,7 +56,7 @@ C&=\frac{2\pi\varepsilon_{d}}{\ln\left( \frac{b}{a} \right)} \\
 L&= \frac{\mu_{d}}{2\pi}\ln\left( \frac{b}{a} \right)
 \end{align}
 $$
-From the telegrapher’s equations, the wave speed along the transmission line is
+From the Telegrapher’s equations, the wave speed along the transmission line is
 $$
 c= \frac{1}{\sqrt{ \varepsilon_{d}\mu_{d} }}
 $$
@@ -78,7 +78,7 @@ Assume the conductors are imperfect and have an internal resistance $R\delta x$ 
 
 It is useful to define the propagation constant $\gamma,$
 $$
-\gamma=\sqrt{ (R+j\omega L)(G+j\omega L) }
+\gamma=\sqrt{ (R+j\omega L)(G+j\omega C) }
 $$
 The general solution to the Telegrapher’s equations becomes
 $$

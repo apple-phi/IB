@@ -1,0 +1,17 @@
+- Revise [[Heat exchangers]] effectiveness
+- Thermogluids 2017 Q4
+- Joe’s thermo Qs
+- Dimensionless quantities
+	- $d$ is a local length (e.g. diameter)
+	- $s$ is a bulk characteristic length (volume / area)
+- Thermo combustion:
+	- 1997 Q5
+	- 1998 Q6
+	- 2010 (2 questions)
+	- 2015 (2 questions)
+- Availability
+	- 2019 Q2
+	- 2021 Q6 (crib is wrong)
+- Calculator has a function to interpolate???
+- Recap throttling
+- Learn the T-$S$ and P-$H$ graphs for different processes

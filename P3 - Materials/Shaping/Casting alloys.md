@@ -8,6 +8,7 @@ The alloy choice may be influenced by its *processability*, especially when cast
 Casting alloys often have a near-[[Alloy solidification#Eutectic|eutectic]] composition:
 - low freezing temperature
 - low freezing range (minimal plastic melting range)
+
 But:
 - brittle lamellae
 - low toughness

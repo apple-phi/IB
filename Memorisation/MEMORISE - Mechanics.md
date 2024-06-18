@@ -1,0 +1,1 @@
+![[3D kinematics#Gyroscopic mechanics]]

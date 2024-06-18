@@ -1,4 +1,3 @@
-
 ## Assumptions
 
 The eye needs to maintain its shape. Assume it is a shell that is
@@ -34,7 +33,7 @@ Changes in $\mathrm{IOP}$ are implicated in diseases like glaucoma. We can indir
 
 Goldmann tonometry:
 - Anaesthetize cornea
-- Place tonometer on corner wtih force W
+- Place tonometer on cornea with force W
 
 tbc
 

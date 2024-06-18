@@ -1,8 +1,8 @@
 ## Anatomy of the eye
 
-- Corner contributes most of the eye’s focusing power *but is fixed focus*.
-- The crystalline lens sits behind the iris and contributse the remainder of the focussing power.
-- Th focal distance is dynamically changes by changing the shape of the lens using the ciliary muscles.
+- Cornea contributes most of the eye’s focusing power *but is fixed focus*.
+- The crystalline lens sits behind the iris and contributes the remainder of the focussing power.
+- The focal distance is dynamically changes by changing the shape of the lens using the ciliary muscles.
 
 ![[eye-anatomy.png]]
 ![[eye-anatomy-2.png]]
@@ -29,10 +29,10 @@ It is a polymer. In the eye:
 - Crystalline collagen fibres create transparency
 - Composite “basket-weave” design provides structural support
 
-![[cornea.png]]
+![[cornea.png|500]]
 ^^ The pink things are fibroblasts (specifically corneal keratocytes), which regulate the collagen.
 
-![[collagen-fibrils-1.png]]
+![[collagen-fibrils-1.png|500]]
 The fibril orientation in the left and right eyes are mirror images of each other. The fibrils are directed towards the extra-ocular muscles at the edges.
 
 ## Lens

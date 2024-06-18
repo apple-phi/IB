@@ -1,3 +1,8 @@
+## Rankine cycle
+$$
+\Delta h=v_{f_{1}}(p_{2}-p_{1})
+$$
+![[Availability balance]]
 ## Darcy–Weisbach equation
 The rate of pressure drop along a length of cylindrical pipe due to wall friction is
 
@@ -79,7 +84,12 @@ See also: [[Dryness#Humidity]]
 ## Isolines
 ![[pv-ts-isolines.png|500]]
 
-## Heat exchanger effectiveness
+## Heat exchanger
+For $\Delta T_{m}$ as the LMTD, 
+$$
+\dot{Q}=UA\Delta T_{m}
+$$
+### Effectiveness
 For *any* configuration of heat exchanger (parallel flow, counter-flow etc.) the effectiveness is the fraction of heat exchanged compared to the theoretical maximum of any configuration.
 
 $$

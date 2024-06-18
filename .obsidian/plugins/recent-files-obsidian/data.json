@@ -1,8 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "Module choices",
+      "path": "Module choices.md"
+    },
+    {
       "basename": "MEMORISE - Information",
-      "path": "MEMORISE - Information.md"
+      "path": "Memorisation/MEMORISE - Information.md"
+    },
+    {
+      "basename": "MEMORISE - Thermofluids",
+      "path": "Memorisation/MEMORISE - Thermofluids.md"
+    },
+    {
+      "basename": "MEMORISE - Structures",
+      "path": "Memorisation/MEMORISE - Structures.md"
+    },
+    {
+      "basename": "MEMORISE - Mechanics",
+      "path": "Memorisation/MEMORISE - Mechanics.md"
+    },
+    {
+      "basename": "MEMORISE - Mathematical Methods",
+      "path": "Memorisation/MEMORISE - Mathematical Methods.md"
+    },
+    {
+      "basename": "MEMORISE - Materials",
+      "path": "Memorisation/MEMORISE - Materials.md"
+    },
+    {
+      "basename": "MEMORISE - Electrical",
+      "path": "Memorisation/MEMORISE - Electrical.md"
+    },
+    {
+      "basename": "MEMORISE - Electives",
+      "path": "Memorisation/MEMORISE - Electives.md"
+    },
+    {
+      "basename": "Missing lectures",
+      "path": "Missing lectures.md"
+    },
+    {
+      "basename": "Todo",
+      "path": "Todo.md"
+    },
+    {
+      "basename": "E4",
+      "path": "Labs/E4.md"
+    },
+    {
+      "basename": "Lab D1",
+      "path": "Labs/Lab D1.md"
+    },
+    {
+      "basename": "double-pendulum-lab-alpha",
+      "path": "Labs/double-pendulum-lab-alpha.png"
+    },
+    {
+      "basename": "double-pendulum-lab-beta",
+      "path": "Labs/double-pendulum-lab-beta.png"
+    },
+    {
+      "basename": "D1-my-exp-3",
+      "path": "Labs/_assets/D1-my-exp-3.png"
+    },
+    {
+      "basename": "D1-2nd-part",
+      "path": "Labs/_assets/D1-2nd-part.png"
+    },
+    {
+      "basename": "this-fucking-slide",
+      "path": "_assets/this-fucking-slide.png"
+    },
+    {
+      "basename": "oct-symbols",
+      "path": "_assets/oct-symbols.png"
+    },
+    {
+      "basename": "yield-notation",
+      "path": "_assets/yield-notation.png"
+    },
+    {
+      "basename": "Student complaint committee",
+      "path": "_private/JCR/Student complaint committee.md"
+    },
+    {
+      "basename": "Imaging the eye",
+      "path": "P8 - Bioengineering/_handouts/Imaging the eye.pdf"
+    },
+    {
+      "basename": "Imaging the eye 2",
+      "path": "P8 - Bioengineering/_handouts/Imaging the eye 2.pdf"
+    },
+    {
+      "basename": "Imaging the eye",
+      "path": "P8 - Bioengineering/Imaging the eye.md"
+    },
+    {
+      "basename": "Eye disease",
+      "path": "P8 - Bioengineering/Eye disease.md"
+    },
+    {
+      "basename": "Biological coding",
+      "path": "P8 - Bioengineering/Biological coding.md"
+    },
+    {
+      "basename": "Coding",
+      "path": "P8 - Bioengineering/_handouts/Coding.pdf"
+    },
+    {
+      "basename": "Optics",
+      "path": "P8 - Bioengineering/_handouts/Optics.pdf"
+    },
+    {
+      "basename": "Ocular biomechanics",
+      "path": "P8 - Bioengineering/_handouts/Ocular biomechanics.pdf"
+    },
+    {
+      "basename": "Discrete",
+      "path": "P8 - Information/_handouts/Discrete.pdf"
+    },
+    {
+      "basename": "Tissues in the eye",
+      "path": "P8 - Bioengineering/Tissues in the eye.md"
+    },
+    {
+      "basename": "The eye as a shell",
+      "path": "P8 - Bioengineering/The eye as a shell.md"
+    },
+    {
+      "basename": "Neuroscience of vision",
+      "path": "P8 - Bioengineering/Neuroscience of vision.md"
+    },
+    {
+      "basename": "Eyes across species",
+      "path": "P8 - Bioengineering/Eyes across species.md"
+    },
+    {
+      "basename": "learning-part-1-handout",
+      "path": "P8 - Information/_handouts/learning-part-1-handout.pdf"
+    },
+    {
+      "basename": "learning-part-2-handout",
+      "path": "P8 - Information/_handouts/learning-part-2-handout.pdf"
     },
     {
       "basename": "Lagrangian mechanics",
@@ -17,188 +157,48 @@
       "path": "P1 - Mechanics/Kinematics in Two Dimensions.md"
     },
     {
+      "basename": "Databook - mechanics",
+      "path": "P1 - Mechanics/Databook - mechanics.pdf"
+    },
+    {
       "basename": "3D kinematics",
       "path": "P1 - Mechanics/3D kinematics.md"
     },
     {
-      "basename": "P1 EP4 solutions",
-      "path": "P1 - Mechanics/_eps/P1 EP4 solutions.md"
+      "basename": "Feature Extraction & Matching (2-5)",
+      "path": "P8 - Information/_handouts/Feature Extraction & Matching (2-5).pdf"
     },
     {
-      "basename": "P1 EP3 solutions",
-      "path": "P1 - Mechanics/_eps/P1 EP3 solutions.md"
+      "basename": "summary-lecture-4",
+      "path": "P8 - Information/_handouts/summary-lecture-4.pdf"
     },
     {
-      "basename": "P1 EP2 solutions",
-      "path": "P1 - Mechanics/_eps/P1 EP2 solutions.md"
+      "basename": "summary-lecture-3",
+      "path": "P8 - Information/_handouts/summary-lecture-3.pdf"
     },
     {
-      "basename": "P1 EP1 solutions",
-      "path": "P1 - Mechanics/_eps/P1 EP1 solutions.md"
+      "basename": "summary-lecture-2",
+      "path": "P8 - Information/_handouts/summary-lecture-2.pdf"
     },
     {
-      "basename": "P1 EP0 solutions",
-      "path": "P1 - Mechanics/_eps/P1 EP0 solutions.md"
+      "basename": "summary-lecture-1",
+      "path": "P8 - Information/_handouts/summary-lecture-1.pdf"
     },
     {
-      "basename": "Drawing 2024-01-31 13.24.00.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-31 13.24.00.excalidraw.md"
+      "basename": "Thermoplastic crystallite formation",
+      "path": "P3 - Materials/Polymers/Thermoplastic crystallite formation.md"
     },
     {
-      "basename": "Drawing 2024-01-31 15.26.08.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-31 15.26.08.excalidraw.md"
+      "basename": "Mechanical effects of thermoplastic crystallinity",
+      "path": "P3 - Materials/Polymers/Mechanical effects of thermoplastic crystallinity.md"
     },
     {
-      "basename": "Drawing 2024-01-24 16.41.53.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-24 16.41.53.excalidraw.md"
+      "basename": "Controlling thermoplastic crystallinity",
+      "path": "P3 - Materials/Polymers/Controlling thermoplastic crystallinity.md"
     },
     {
-      "basename": "Strategic marketing management",
-      "path": "P8 - Engineering in Business/Strategic marketing management.md"
-    },
-    {
-      "basename": "Managerial theories of the firm",
-      "path": "P8 - Engineering in Business/Managerial theories of the firm.md"
-    },
-    {
-      "basename": "Single neuron",
-      "path": "P8 - Information/Single neuron.md"
-    },
-    {
-      "basename": "Feature extraction (blob detection)",
-      "path": "P8 - Information/Feature extraction (blob detection).md"
-    },
-    {
-      "basename": "Edge detection",
-      "path": "P8 - Information/Edge detection.md"
-    },
-    {
-      "basename": "Corner detection",
-      "path": "P8 - Information/Corner detection.md"
-    },
-    {
-      "basename": "MEMORISE - Thermofluids",
-      "path": "MEMORISE - Thermofluids.md"
-    },
-    {
-      "basename": "valence-band-holes",
-      "path": "P8 - Electrical/_assets/valence-band-holes.png"
-    },
-    {
-      "basename": "Crystals",
-      "path": "P8 - Electrical/Crystals.md"
-    },
-    {
-      "basename": "energy-gap",
-      "path": "P8 - Electrical/_assets/energy-gap.png"
-    },
-    {
-      "basename": "drift-velocity",
-      "path": "P8 - Electrical/_assets/drift-velocity.png"
-    },
-    {
-      "basename": "Tissues in the eye",
-      "path": "P8 - Bioengineering/Tissues in the eye.md"
-    },
-    {
-      "basename": "The eye as a shell",
-      "path": "P8 - Bioengineering/The eye as a shell.md"
-    },
-    {
-      "basename": "Eyes across species",
-      "path": "P8 - Bioengineering/Eyes across species.md"
-    },
-    {
-      "basename": "Imaging the eye",
-      "path": "P8 - Bioengineering/Imaging the eye.md"
-    },
-    {
-      "basename": "Biological coding",
-      "path": "P8 - Bioengineering/Biological coding.md"
-    },
-    {
-      "basename": "eye-anatomy",
-      "path": "P8 - Bioengineering/_assets/eye-anatomy.png"
-    },
-    {
-      "basename": "collagen-fibrils",
-      "path": "P8 - Bioengineering/_assets/collagen-fibrils.png"
-    },
-    {
-      "basename": "tissues",
-      "path": "P8 - Bioengineering/_assets/tissues.png"
-    },
-    {
-      "basename": "pv-ts-isolines",
-      "path": "P4 - Thermofluids/_assets/pv-ts-isolines.png"
-    },
-    {
-      "basename": "lens-capsule",
-      "path": "P8 - Bioengineering/_assets/lens-capsule.png"
-    },
-    {
-      "basename": "histogram-equalisation",
-      "path": "P8 - Bioengineering/_assets/histogram-equalisation.png"
-    },
-    {
-      "basename": "efficient-coding",
-      "path": "P8 - Bioengineering/_assets/efficient-coding.png"
-    },
-    {
-      "basename": "effective-mass",
-      "path": "P8 - Electrical/_assets/effective-mass.png"
-    },
-    {
-      "basename": "cornea",
-      "path": "P8 - Bioengineering/_assets/cornea.png"
-    },
-    {
-      "basename": "Databook - information",
-      "path": "P6 - Information/Databook - information.pdf"
-    },
-    {
-      "basename": "Digital passband modulation",
-      "path": "P6 - Information/Communications/Digital passband modulation.md"
-    },
-    {
-      "basename": "Comms 7 (Multiple access)",
-      "path": "P6 - Information/_handouts/Comms 7 (Multiple access).pdf"
-    },
-    {
-      "basename": "Lecture 6 (Linear Control)",
-      "path": "P6 - Information/_handouts/Lecture 6 (Linear Control).pdf"
-    },
-    {
-      "basename": "Comms 6 (Channel coding)",
-      "path": "P6 - Information/_handouts/Comms 6 (Channel coding).pdf"
-    },
-    {
-      "basename": "Channel coding",
-      "path": "P6 - Information/Communications/Channel coding.md"
-    },
-    {
-      "basename": "Bandwidth",
-      "path": "P6 - Information/Communications/Bandwidth.md"
-    },
-    {
-      "basename": "Communication channels",
-      "path": "P6 - Information/Communications/Communication channels.md"
-    },
-    {
-      "basename": "Comms 1 (Signals and channels)",
-      "path": "P6 - Information/_handouts/Comms 1 (Signals and channels).pdf"
-    },
-    {
-      "basename": "Comms 5 (Passband modulation)",
-      "path": "P6 - Information/_handouts/Comms 5 (Passband modulation).pdf"
-    },
-    {
-      "basename": "Digital baseband modulation",
-      "path": "P6 - Information/Communications/Digital baseband modulation.md"
-    },
-    {
-      "basename": "Comms 4 (Baseband modulation)",
-      "path": "P6 - Information/_handouts/Comms 4 (Baseband modulation).pdf"
+      "basename": "Lever rule",
+      "path": "P3 - Materials/Phase systems/Lever rule.md"
     }
   ],
   "omittedPaths": [],

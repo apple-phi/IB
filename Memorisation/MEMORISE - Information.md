@@ -1,9 +1,19 @@
-## BPSK
-tbc
-
+## Useful
+$$
+\begin{align}
+\delta(x)&= \frac{1}{2\pi}\int e^{ j\omega x } \, \mathrm{d}\omega  \\
+\delta_{mn}&=\frac{1}{2\pi}\int_{0}^{2\pi} e^{ j(m-n)x } \, \mathrm{d}x 
+ \end{align}
+$$
+![[Digitisation of analogue signals#Signal-to-noise ratio]]
+## Access
+-  Time-division multiple access (TDMA)—users one after the other, each using the whole bandwidth for a fraction of the time
+- Frequency-division multiple access (FDMA)—each user communicates all the time using using a fraction of the available bandwidth)
+- Code-division multiple access (CDMA)—all at the same time using the whole bandwidth, each with a different orthogonal signature.
 ## Linear systems
-### Bode plots
-[my.ece.utah.edu/\~ee3110/bodeplot.pdf](https://my.ece.utah.edu/~ee3110/bodeplot.pdf)
+### Plots
+- [my.ece.utah.edu/\~ee3110/bodeplot.pdf](https://my.ece.utah.edu/~ee3110/bodeplot.pdf)
+- Nyquist plot approaches origin at an angle of $-\frac{\pi}{2}$ per excess pole (c.f. zeroes).
 
 ### Nyquist stability criterion
 For a closed loop system with return ratio $L(s)$ and transfer function
@@ -19,6 +29,7 @@ If the Nyquist contour of $L(s)$ leaves the point $-1+j0$ entirely on the left, 
 > Unexaminable: more complicated unstable $L(s)$
 
 ## Fourier transforms
+[[Fourier transform]]
 ### Standard transforms
 The Fourier transform of a standard unit-height rectangular pulse $\mathop{{\text{rect}}}(t)$ from $t\in[-1,1]$ centred at the origin is
 

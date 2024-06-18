@@ -1,4 +1,3 @@
-
 ## Evolution of the eye
 
 The eye has evolved many times in many species!

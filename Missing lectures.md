@@ -1,0 +1,10 @@
+- Electrical power lec 4
+- Heat transfer lec 4 (natural convection?)
+- Fourier transforms lec 3
+- Engineer in Business lec 3
+- Probability lec ??
+- Strategy lec 2 — went to lec but he didn’t give slides / notes…
+- 2P2 slip line analysis
+- Monday 11th all lectures
+- Calculating eigenvalues and improving the convergence rate by shifting the diagonal
+- Finish $\mathrm{SVD}$

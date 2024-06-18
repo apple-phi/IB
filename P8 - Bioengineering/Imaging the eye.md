@@ -57,7 +57,7 @@ r(z)=\sqrt{ r_{0}^{2}+\left( \frac{\lambda z}{\pi} \right)^{2}  }
 $$
 where $\lambda$ is the wavelength and $r_{0}=r(0)$.
 
-The radial resolution sit eh focal spot size
+The radial resolution is the diameter of the focal spot.
 $$
 \Delta x=2r_{0}
 $$

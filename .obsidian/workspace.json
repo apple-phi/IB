@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b7c4acb0659937c",
+        "id": "0bab38614729bc74",
         "type": "tabs",
         "children": [
           {
-            "id": "e19386d79fba9260",
+            "id": "df0881ba95d0bef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMORISE - Information.md",
+                "file": "Module choices.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMORISE - Information.md",
+                "file": "Module choices.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMORISE - Information.md",
+                "file": "Module choices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMORISE - Information.md"
+                "file": "Module choices.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,67 +175,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e19386d79fba9260",
+  "active": "df0881ba95d0bef0",
   "lastOpenFiles": [
-    "P1 - Mechanics/Lagrangian mechanics.md",
-    "P1 - Mechanics/Kinematics of plane mechanisms.md",
-    "P1 - Mechanics/Kinematics in Two Dimensions.md",
-    "P1 - Mechanics/3D kinematics.md",
-    "P1 - Mechanics/_eps/P1 EP4 solutions.md",
-    "P1 - Mechanics/_eps/P1 EP3 solutions.md",
-    "P1 - Mechanics/_eps/P1 EP2 solutions.md",
-    "P1 - Mechanics/_eps/P1 EP1 solutions.md",
-    "P1 - Mechanics/_eps/P1 EP0 solutions.md",
-    "Excalidraw/Drawing 2024-01-31 13.24.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-31 15.26.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-24 16.41.53.excalidraw.md",
-    "P8 - Engineering in Business/Strategic marketing management.md",
-    "P8 - Engineering in Business/Managerial theories of the firm.md",
-    "P8 - Information/Single neuron.md",
-    "P8 - Information/Feature extraction (blob detection).md",
-    "P8 - Information/Edge detection.md",
-    "P8 - Information/Corner detection.md",
-    "MEMORISE - Thermofluids.md",
-    "_private/Todo.md",
-    "P8 - Electrical/_assets/valence-band-holes.png",
-    "P8 - Engineering in Business/Flashcards.md",
-    "P8 - Electrical/Crystals.md",
-    "P8 - Electrical/_assets/energy-gap.png",
-    "P8 - Electrical/_assets/drift-velocity.png",
+    "Memorisation/MEMORISE - Information.md",
+    "Memorisation/MEMORISE - Thermofluids.md",
+    "Memorisation/MEMORISE - Structures.md",
+    "Memorisation/MEMORISE - Mechanics.md",
+    "Memorisation/MEMORISE - Mathematical Methods.md",
+    "Memorisation/MEMORISE - Materials.md",
+    "Memorisation/MEMORISE - Electrical.md",
+    "Memorisation/MEMORISE - Electives.md",
+    "Missing lectures.md",
+    "Todo.md",
+    "Labs/E4.md",
+    "Labs/Lab D1.md",
+    "Labs/double-pendulum-lab-alpha.png",
+    "Labs/double-pendulum-lab-beta.png",
+    "Labs/_assets/D1-my-exp-3.png",
+    "Labs/_assets/D1-2nd-part.png",
+    "_assets/this-fucking-slide.png",
+    "_assets/oct-symbols.png",
+    "_assets/yield-notation.png",
+    "_private/JCR/Student complaint committee.md",
+    "P8 - Bioengineering/_handouts/Imaging the eye.pdf",
+    "P8 - Bioengineering/_handouts/Imaging the eye 2.pdf",
+    "P8 - Bioengineering/Imaging the eye.md",
+    "P8 - Bioengineering/Eye disease.md",
+    "P8 - Bioengineering/Biological coding.md",
+    "P8 - Bioengineering/_handouts/Coding.pdf",
+    "P8 - Bioengineering/_handouts/Optics.pdf",
+    "P8 - Bioengineering/_handouts/Ocular biomechanics.pdf",
+    "P8 - Information/_handouts/Discrete.pdf",
     "P8 - Bioengineering/Tissues in the eye.md",
     "P8 - Bioengineering/The eye as a shell.md",
+    "P8 - Bioengineering/Neuroscience of vision.md",
     "P8 - Bioengineering/Eyes across species.md",
-    "P8 - Bioengineering/Imaging the eye.md",
-    "P8 - Bioengineering/_assets/eye-anatomy.png",
-    "P8 - Bioengineering/_assets/collagen-fibrils.png",
-    "P8 - Bioengineering/_assets/tissues.png",
-    "P4 - Thermofluids/_assets/pv-ts-isolines.png",
-    "P8 - Bioengineering/_assets/lens-capsule.png",
-    "_assets/Pasted image 20240503204956.png",
-    "P8 - Bioengineering/_assets/histogram-equalisation.png",
-    "_private",
-    "P6 - Information/Databook - information.pdf",
-    "P6 - Information/_handouts/Comms 7 (Multiple access).pdf",
-    "P6 - Information/_handouts/Lecture 6 (Linear Control).pdf",
-    "P6 - Information/_handouts/Comms 6 (Channel coding).pdf",
-    "P6 - Information/_handouts/Comms 1 (Signals and channels).pdf",
-    "P6 - Information/_handouts/Comms 5 (Passband modulation).pdf",
-    "P6 - Information/_handouts/Comms 4 (Baseband modulation).pdf",
-    "P6 - Information/_handouts/Comms 3 (Digitisation).pdf",
-    "P6 - Information/_handouts/Comms 2 (AM).pdf"
+    "smart-chats/UNTITLED CHAT 2024-06-11 19 34 15.md",
+    "smart-chats/UNTITLED CHAT 2024-06-11 19 20 53.md",
+    "smart-chats/UNTITLED CHAT 2024-06-11 19 14 09.md",
+    "smart-chats/UNTITLED CHAT 2024-06-09 23 55 21.md",
+    "P8 - Information/_handouts/learning-part-1-handout.pdf",
+    "P8 - Information/_handouts/learning-part-2-handout.pdf",
+    "P1 - Mechanics/Lagrangian mechanics.md",
+    "P1 - Mechanics/Kinematics of plane mechanisms.md",
+    "P1 - Mechanics/Databook - mechanics.pdf",
+    "P8 - Information/_handouts/Feature Extraction & Matching (2-5).pdf",
+    "_assets/Module choices.png",
+    "P8 - Electrical/_assets/valence-band-holes.png",
+    "P8 - Electrical/_assets/energy-gap.png"
   ]
 }

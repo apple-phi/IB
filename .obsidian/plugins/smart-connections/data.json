@@ -51,7 +51,10 @@
   "embed_input_min_chars": 50,
   "multi_heading_blocks": true,
   "enable_mobile": false,
-  "api_key": "",
+  "actions": {
+    "lookup": true
+  },
+  "api_key": "sk-PjDisw70wxoSRoiFB4A6B11693614251A6C59825D06631E0",
   "excluded_headings": "",
   "file_exclusions": "Untitled",
   "folder_exclusions": "smart-chats",
@@ -61,5 +64,5 @@
   "log_render": false,
   "log_render_files": false,
   "recently_sent_retry_notice": false,
-  "version": "2.1.66"
+  "version": "2.1.71"
 }
